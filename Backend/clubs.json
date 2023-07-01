@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "club name": "Chess Club",
+      "name": "Chess Club",
+      "description": "Join the Chess Club to improve your chess skills and participate in friendly competitions.",
+      "interests": ["chess", "strategy"],
+      "senior rating": 4.5
+    },
+    {
+      "id": 2,
+      "club name": "Photography Club",
+      "name": "Photography Club",
+      "description": "Explore the world of photography with like-minded individuals and capture stunning images.",
+      "interests": ["photography", "art"],
+      "senior rating": 3.8
+    },
+    {
+      "id": 3,
+      "club name": "Debate Society",
+      "name": "Debate Society",
+      "description": "Sharpen your communication and critical thinking skills through lively debates on various topics.",
+      "interests": ["debate", "public speaking"],
+      "senior rating": 4.2
+    },
+    {
+      "id": 4,
+      "club name": "Coding Club",
+      "name": "Coding Club",
+      "description": "Learn programming languages, work on exciting coding projects, and collaborate with fellow coders.",
+      "interests": ["coding", "programming"],
+      "senior rating": 4.6
+    },
+    {
+      "id": 5,
+      "club name": "Sports Club",
+      "name": "Sports Club",
+      "description": "Stay fit and have fun participating in various sports activities with other sports enthusiasts.",
+      "interests": ["sports", "fitness"],
+      "senior rating": 4.1
+    },
+    {
+      "id": 6,
+      "club name": "Art Club",
+      "name": "Art Club",
+      "description": "Unleash your creativity and express yourself through various art forms like painting, drawing, and sculpture.",
+      "interests": ["art", "creativity"],
+      "senior rating": 4.3
+    },
+    {
+      "id": 7,
+      "club name": "Music Club",
+      "name": "Music Club",
+      "description": "Discover the joy of music and join fellow musicians to create melodious tunes and perform together.",
+      "interests": ["music", "instruments"],
+      "senior rating": 4.4
+    },
+    {
+      "id": 8,
+      "club name": "Science Club",
+      "name": "Science Club",
+      "description": "Explore the wonders of science through hands-on experiments, discussions, and scientific discoveries.",
+      "interests": ["science", "experiments"],
+      "senior rating": 4.0
+    },
+    {
+      "id": 9,
+      "club name": "Environmental Club",
+      "name": "Environmental Club",
+      "description": "Take part in initiatives and activities focused on raising awareness and caring for the environment.",
+      "interests": ["environment", "sustainability"],
+      "senior rating": 4.5
+    },
+    {
+      "id": 10,
+      "club name": "Dance Club",
+      "name": "Dance Club",
+      "description": "Express yourself through the art of dance and learn various dance styles with fellow dance enthusiasts.",
+      "interests": ["dance", "movement"],
+      "senior rating": 3.9
+    }
+  ]
+  
